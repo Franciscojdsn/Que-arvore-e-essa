@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/que-arvore-e-essa/static/css/main.786535db.css",
+    "main.css": "/que-arvore-e-essa/static/css/main.dcb72877.css",
     "main.js": "/que-arvore-e-essa/static/js/main.1f26abd5.js",
     "static/media/7.png": "/que-arvore-e-essa/static/media/7.438936159aa6779c167d.png",
     "static/media/11.png": "/que-arvore-e-essa/static/media/11.aa31fe8e00a26041903a.png",
@@ -12,11 +12,11 @@
     "static/media/10.png": "/que-arvore-e-essa/static/media/10.58e6d8238dedb615f63e.png",
     "static/media/Captura de tela 2025-01-31 212118.jpg": "/que-arvore-e-essa/static/media/Captura de tela 2025-01-31 212118.9dbf040cb6c1d8bf2d95.jpg",
     "index.html": "/que-arvore-e-essa/index.html",
-    "main.786535db.css.map": "/que-arvore-e-essa/static/css/main.786535db.css.map",
+    "main.dcb72877.css.map": "/que-arvore-e-essa/static/css/main.dcb72877.css.map",
     "main.1f26abd5.js.map": "/que-arvore-e-essa/static/js/main.1f26abd5.js.map"
   },
   "entrypoints": [
-    "static/css/main.786535db.css",
+    "static/css/main.dcb72877.css",
     "static/js/main.1f26abd5.js"
   ]
 }
